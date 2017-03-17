@@ -8,7 +8,7 @@ In order to prepare the formation 3 things have been done (not including the few
   
 This approach in three part (data science knowledge, Azure ML platform manipulation and python manipulation) has been decided due to time constraint. As the period was busy, it was difficult to take more time to really build a performant and reliable model with all the required check.
 
-The result of the last personnal example has been submit to Kaggle in order to see the procedure and to estimate the performance which was probably not at its best.
+The result of the last personnal example has been submit to Kaggle in order to see the procedure and to estimate the performance which was probably not at its best. As expected the result was the following : "Your submission scored 0.74641."
 
 I hope this approach is in adequacy with the main idea of the formation. Code quality can definitely be improved.
 
